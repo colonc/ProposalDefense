@@ -1,0 +1,6 @@
+\beamer@endinputifotherversion {3.36pt}
+\beamer@sectionintoc {1}{Motivation}{2}{0}{1}
+\beamer@sectionintoc {2}{Solution}{8}{0}{2}
+\beamer@subsectionintoc {2}{1}{Solution}{8}{0}{2}
+\beamer@sectionintoc {3}{Related Work}{15}{0}{3}
+\beamer@sectionintoc {4}{Approach}{22}{0}{4}
