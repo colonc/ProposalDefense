@@ -1,6 +1,9 @@
 \beamer@endinputifotherversion {3.36pt}
 \beamer@sectionintoc {1}{Motivation}{2}{0}{1}
 \beamer@sectionintoc {2}{Solution}{8}{0}{2}
-\beamer@subsectionintoc {2}{1}{Solution}{8}{0}{2}
 \beamer@sectionintoc {3}{Related Work}{15}{0}{3}
 \beamer@sectionintoc {4}{Approach}{22}{0}{4}
+\beamer@sectionintoc {5}{Why SVG?}{30}{0}{5}
+\beamer@sectionintoc {6}{Evaluation Strategy}{36}{0}{6}
+\beamer@sectionintoc {7}{Other}{41}{0}{7}
+\beamer@sectionintoc {8}{Future Work}{42}{0}{8}

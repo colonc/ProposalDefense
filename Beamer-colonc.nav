@@ -9,8 +9,7 @@
 \headcommand {\sectionentry {2}{Solution}{8}{Solution}{0}}
 \headcommand {\beamer@sectionpages {2}{7}}
 \headcommand {\beamer@subsectionpages {2}{7}}
-\headcommand {\beamer@subsectionentry {0}{2}{1}{8}{Solution}}\headcommand {\beamer@subsectionpages {8}{7}}
-\headcommand {\slideentry {2}{1}{1}{8/14}{Solution}{0}}
+\headcommand {\slideentry {2}{0}{1}{8/14}{}{0}}
 \headcommand {\beamer@framepages {8}{14}}
 \headcommand {\sectionentry {3}{Related Work}{15}{Related Work}{0}}
 \headcommand {\beamer@sectionpages {8}{14}}
@@ -22,8 +21,28 @@
 \headcommand {\beamer@subsectionpages {15}{21}}
 \headcommand {\slideentry {4}{0}{1}{22/29}{}{0}}
 \headcommand {\beamer@framepages {22}{29}}
-\headcommand {\beamer@partpages {1}{29}}
-\headcommand {\beamer@subsectionpages {22}{29}}
+\headcommand {\sectionentry {5}{Why SVG?}{30}{Why SVG?}{0}}
 \headcommand {\beamer@sectionpages {22}{29}}
-\headcommand {\beamer@documentpages {29}}
-\headcommand {\def \inserttotalframenumber {5}}
+\headcommand {\beamer@subsectionpages {22}{29}}
+\headcommand {\slideentry {5}{0}{1}{30/35}{}{0}}
+\headcommand {\beamer@framepages {30}{35}}
+\headcommand {\sectionentry {6}{Evaluation Strategy}{36}{Evaluation Strategy}{0}}
+\headcommand {\beamer@sectionpages {30}{35}}
+\headcommand {\beamer@subsectionpages {30}{35}}
+\headcommand {\slideentry {6}{0}{1}{36/40}{}{0}}
+\headcommand {\beamer@framepages {36}{40}}
+\headcommand {\sectionentry {7}{Other}{41}{Other}{0}}
+\headcommand {\beamer@sectionpages {36}{40}}
+\headcommand {\beamer@subsectionpages {36}{40}}
+\headcommand {\slideentry {7}{0}{1}{41/41}{}{0}}
+\headcommand {\beamer@framepages {41}{41}}
+\headcommand {\sectionentry {8}{Future Work}{42}{Future Work}{0}}
+\headcommand {\beamer@sectionpages {41}{41}}
+\headcommand {\beamer@subsectionpages {41}{41}}
+\headcommand {\slideentry {8}{0}{1}{42/49}{}{0}}
+\headcommand {\beamer@framepages {42}{49}}
+\headcommand {\beamer@partpages {1}{49}}
+\headcommand {\beamer@subsectionpages {42}{49}}
+\headcommand {\beamer@sectionpages {42}{49}}
+\headcommand {\beamer@documentpages {49}}
+\headcommand {\def \inserttotalframenumber {9}}
